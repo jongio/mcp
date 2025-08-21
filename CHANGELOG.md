@@ -1,3 +1,8 @@
+## [Unreleased]
+
+### Changed
+- Devcontainer configuration: rename to "Microsoft MCP Codespace", switch base image to `mcr.microsoft.com/devcontainers/dotnet:9.0`, increase host memory to `16gb`, and set `remoteUser` to `root`. (See: PR #30 by @jongio)
+
 # CHANGELOG 📝
 
 The Azure MCP Server updates automatically by default whenever a new release comes out 🚀. We ship updates twice a week on Tuesdays and Thursdays 😊
